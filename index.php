@@ -30,7 +30,7 @@
 		<div id="logo"><a href="/" rel="nofollow"><img src="images/logo.png" alt=""></a></div>
 			<nav>
 				<ul>
-					<li><a href="">Типовые договоры 10</a></li>
+					<li><a href="">Типовые договоры 11</a></li>
 					<li><a href="">Образцы и бланки</a>
 						<ul>
 						<li><a href="">Образцы</a></li>
